@@ -8,20 +8,6 @@
 #include "ESPAsyncWebServer.h"
 #include "SPIFFS.h"
 
-// Replace with your network credentials
-//const char* ssid = "whats the name of the wifi";
-//const char* password = "passwordforwhat";
-
-//const char* ssid = "hhhouse";
-//const char* password = "mehdeh123";
-
-const char* ssid = "vosolutions";
-const char* password = "3013802417";
-
-// Dan/Egbu's 
-//const char* ssid = "FiOS-EHSID";
-//const char* password = "mom4964hay0868amy";
-
 // Set LED GPIO
 const int ledPin = 2;
 // Stores LED state
